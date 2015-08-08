@@ -1,0 +1,16 @@
+pretzel: 
+    engine: liquid
+name: Eva Lacy
+description: Technology and Politics
+meta_description: "Eva Lacy, Technology and Politics"
+
+markdown: redcarpet
+highlighter: pygments
+logo: false
+baseurl: /
+domain_name: 'https://www.lacy.ie'
+google_analytics: 'UA-XXXXXXXX-X'
+
+# Details for the RSS feed generator
+url:            'https://www.lacy.ie'
+author:         'Eva Lacy'
