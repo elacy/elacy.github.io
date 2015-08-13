@@ -13,7 +13,7 @@ tags:
   - Society
   - Space
 ---
-![](/assets/images/2011/11/i-see-no-god-up-here-1024x640.jpg "i-see-no-god-up-here")
+![](/assets/images/2011/11/i-see-no-god-up-here.jpg "i-see-no-god-up-here")
 
 Personally I'm a big fan of the Santa Clause myth. At an early age it's hard to imagine that your parents can be wrong let alone intentionally mislead you. Learning the fact that Santa Clause doesn't exist is an important part of developing an awareness that authority figures lie and their lies are almost always self serving.
 

@@ -17,4 +17,4 @@ It's not something we can allow in our society, it leads to social problems like
 
 How are we going to do that though as more and more the requirements are met by machines? I don't know but it's a problem that we should be talking about.
 
- [1]: http://img.thesun.co.uk/aidemitlum/archive/00913/SNN2231AA_682_913122a.jpg
+ [1]: /assets/images/2014/tesco.jpg

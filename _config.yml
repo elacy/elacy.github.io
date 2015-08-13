@@ -9,7 +9,7 @@ highlighter: pygments
 logo: false
 baseurl: /
 domain_name: 'https://www.lacy.ie'
-google_analytics: 'UA-XXXXXXXX-X'
+google_analytics: 'UA-66109085-1'
 
 # Details for the RSS feed generator
 url:            'https://www.lacy.ie'

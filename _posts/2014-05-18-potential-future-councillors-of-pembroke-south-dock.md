@@ -141,7 +141,7 @@ Although I am tempted especially given that blog post on the strand road, kind o
   * Website:  [clairebyrne.ie][41]
   * Facebook:  [facebook.com/&#8230;Claire-Byrne-Green-Party&#8230;][42]
   * Email: [clairebyrnegreenparty@gmail.com][43]
-  * Twitter: [@@CByrneGreen][44]
+  * Twitter: [@CByrneGreen][44]
 
 #### Background
 
@@ -170,7 +170,7 @@ I like that she seems to have exactly the right kind of experience for this job,
 
   * Website: [sonyastapleton.com][48]
   * Facebook: [facebook.com/electsonyapbpa][49]
-  * Twitter: @@[SonyaPBPA][50]
+  * Twitter: @[SonyaPBPA][50]
   * Email:
 
 #### Background
@@ -205,7 +205,7 @@ There is a lot of really popular things she is saying there, but.. how are we go
 
   * Website: [lorraineclifford.ie][54]
   * Facebook:  [facebook.com/lorraine.clifford][55]
-  * Twitter: @@[LorrCliff][56]
+  * Twitter: @[LorrCliff][56]
   * Email:
 
 #### Background
@@ -228,7 +228,7 @@ First of all she is a member of Fianna Fail, which means I'm extremely reluctan
 
   * Website:
   * Facebook:  [facebook.com/CllrGerryAshe][58]
-  * Twitter: @@[CllrGerryAshe][59]
+  * Twitter: @[CllrGerryAshe][59]
   * Email: <gerry.ashe@dublincity.ie>
 
 #### Background
@@ -257,7 +257,7 @@ She doesn't have her own website, I haven't heard any of her political views, as
 
   * Website: [lindaosheafarren.ie][61]
   * Facebook: [facebook.com/LindaOSF][62]
-  * Twitter: @@[LindaOSF ][63]
+  * Twitter: @[LindaOSF ][63]
   * Email:
 
 #### Background
@@ -282,7 +282,7 @@ She seems like she has a huge amount of extremely relevant experience, where I t
 
   * Website:
   * Facebook: [facebook.com/&#8230;Vote-Wayne-Flanagan-Tobin&#8230;][67]
-  * Twitter: @@[flanagantobin][68]
+  * Twitter: @[flanagantobin][68]
   * Email: <tobinwr@tcd.ie>
 
 #### Background
@@ -310,7 +310,7 @@ He is extremely inexperienced which puts me off completely. He lacks a lot of po
 
   * Website: [mannixflynn.com][72]
   * Facebook: [facebook.com/mannix.flynn][73]
-  * Twitter: @@[mannixflynn][74]
+  * Twitter: @[mannixflynn][74]
   * Email: [mannix.flynn@dublincity.ie][75]
 
 #### Background
@@ -350,12 +350,12 @@ From what I've read from his blog he seems like a competent councillor. I feel l
 
   * Website:
   * Facebook:
-  * Twitter: @@[chrisandrews64][85]
+  * Twitter: @[chrisandrews64][85]
   * Email: <chrisandrews64@gmail.com>
 
 #### Background
 
-Chris Andrews was involved part of Fianna Fail until he switched parties to Sinn Fein for the upcoming election. His first election was in the Pembroke constituency as a councillor in 1999, after he tried to be elected into the Dail and the Seanad in 2002 without success and was voted out from being a councillor in 2004. In 2006 he was co-opted as a councillor for Inner City South East replacing Garry Keegan until he was elected to the Dail in 2007. In 2011 he lost his seat, and then in August 2012 he left Fianna Fail after he was caught posting tweets criticising Fianna Fail leadership under the name @@brianformerff and in September 2013 he joined Sinn Fein.
+Chris Andrews was involved part of Fianna Fail until he switched parties to Sinn Fein for the upcoming election. His first election was in the Pembroke constituency as a councillor in 1999, after he tried to be elected into the Dail and the Seanad in 2002 without success and was voted out from being a councillor in 2004. In 2006 he was co-opted as a councillor for Inner City South East replacing Garry Keegan until he was elected to the Dail in 2007. In 2011 he lost his seat, and then in August 2012 he left Fianna Fail after he was caught posting tweets criticising Fianna Fail leadership under the name @brianformerff and in September 2013 he joined Sinn Fein.
 
 #### Thing he says that might influence your vote
 
@@ -376,7 +376,7 @@ I think his past is mired in drama. I distrust Fianna Fail, and I distrust someo
 
   * Website: [frankkennedy.ie][88]
   * Facebook: [facebook.com/frankkennedy.ie][89]
-  * Twitter: @@[frankjkennedy][90]
+  * Twitter: @[frankjkennedy][90]
   * Email: [frankjkennedy@gmail.com ][91]
 
 #### Background
@@ -405,7 +405,7 @@ He is young but he does have some experience working for a politician in the Uni
 
   * Website: [labour.ie/jameshumphreys][96]
   * Facebook: [facebook.com/j.humpheys][97]
-  * Twitter: @@[humphreys][98]
+  * Twitter: @[humphreys][98]
   * Email: <James.Humphreys@votelabour.ie>
 
 #### Background
@@ -428,7 +428,7 @@ The information available about this candidate is pretty sparse. I don't have en
 
   * Website: [dermotlacey.ie/blog][100]
   * Facebook: [facebook.com/dermot.lacey2][101]
-  * Twitter: @@[LaceyDermot][102]
+  * Twitter: @[LaceyDermot][102]
   * Email: <dermot_lacey@labour.ie>
 
 #### Background
@@ -465,7 +465,7 @@ I think I'll be giving him my number 1.
 
   * Website: [kieranbinchy.ie][109]
   * Facebook: [facebook.com/cllrkieranbinchy][110]
-  * Twitter: @@[KieranBinchy][111]
+  * Twitter: @[KieranBinchy][111]
   * Email: <kieran.binchy@dublincity.ie>
 
 #### Background
@@ -496,7 +496,7 @@ His website, his election literature and his youtube video [youtube.com/watch?v
 
   * Website: [mccartan.ie][115]
   * Facebook:
-  * Twitter: @@[councillorpaddy][116]
+  * Twitter: @[councillorpaddy][116]
   * Email: <a style="color: #263137;" href="mailto:cllrpatmccartan@gmail.com">cllrpatmccartan@gmail.com</a>
 
 #### Background
@@ -529,25 +529,25 @@ I like that his election literature contains solid promises, I particularly like
 
 &nbsp;
 
- [1]: http://www.adworld.ie/download/?guid=ceb6f2a0-fab1-47f0-974d-cd0eb8c5733c
+ [1]: /assets/images/2014/dcc-393.jpg
  [2]: http://electionsireland.org/biographies.cfm?election=2014L&cons=5028&sort=alpha
  [3]: http://www.thejournal.ie/local-elections-lorraine-clifford-1468600-May2014/
- [4]: http://www.lacy.ie/potential-future-councillors-of-pembroke-south-dock#Marcin
- [5]: http://www.lacy.ie/potential-future-councillors-of-pembroke-south-dock#Nadine
- [6]: http://www.lacy.ie/potential-future-councillors-of-pembroke-south-dock#Anne
- [7]: http://www.lacy.ie/potential-future-councillors-of-pembroke-south-dock#Claire
- [8]: http://www.lacy.ie/potential-future-councillors-of-pembroke-south-dock#Sonya
- [9]: http://www.lacy.ie/potential-future-councillors-of-pembroke-south-dock#Lorraine
- [10]: http://www.lacy.ie/potential-future-councillors-of-pembroke-south-dock#Gerry
- [11]: http://www.lacy.ie/potential-future-councillors-of-pembroke-south-dock#Linda
- [12]: http://www.lacy.ie/potential-future-councillors-of-pembroke-south-dock#Wayne
- [13]: http://www.lacy.ie/potential-future-councillors-of-pembroke-south-dock#Mannix
- [14]: http://www.lacy.ie/potential-future-councillors-of-pembroke-south-dock#Chris
- [15]: http://www.lacy.ie/potential-future-councillors-of-pembroke-south-dock#Frank
- [16]: http://www.lacy.ie/potential-future-councillors-of-pembroke-south-dock#James
- [17]: http://www.lacy.ie/potential-future-councillors-of-pembroke-south-dock#Dermot
- [18]: http://www.lacy.ie/potential-future-councillors-of-pembroke-south-dock#Kieran
- [19]: http://www.lacy.ie/potential-future-councillors-of-pembroke-south-dock#Paddy
+ [4]: /potential-future-councillors-of-pembroke-south-dock#Marcin
+ [5]: /potential-future-councillors-of-pembroke-south-dock#Nadine
+ [6]: /potential-future-councillors-of-pembroke-south-dock#Anne
+ [7]: /potential-future-councillors-of-pembroke-south-dock#Claire
+ [8]: /potential-future-councillors-of-pembroke-south-dock#Sonya
+ [9]: /potential-future-councillors-of-pembroke-south-dock#Lorraine
+ [10]: /potential-future-councillors-of-pembroke-south-dock#Gerry
+ [11]: /potential-future-councillors-of-pembroke-south-dock#Linda
+ [12]: /potential-future-councillors-of-pembroke-south-dock#Wayne
+ [13]: /potential-future-councillors-of-pembroke-south-dock#Mannix
+ [14]: /potential-future-councillors-of-pembroke-south-dock#Chris
+ [15]: /potential-future-councillors-of-pembroke-south-dock#Frank
+ [16]: /potential-future-councillors-of-pembroke-south-dock#James
+ [17]: /potential-future-councillors-of-pembroke-south-dock#Dermot
+ [18]: /potential-future-councillors-of-pembroke-south-dock#Kieran
+ [19]: /potential-future-councillors-of-pembroke-south-dock#Paddy
  [20]: https://www.facebook.com/pages/Marcin-Czechowicz-Independent-Candidate-for-Dublin-City-Council/1383774998538013
  [21]: http://jobseekersite.info/en/marcin_czechowicz__from_jobseekersite_info_is_running_as_a_candidate_in_the_upcoming_local_elections_for_dublin_city_council_/255/2/
  [22]: https://translate.google.ie/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fpoloniarazem.com%2Fportfolio-item%2Fmarcin-czechowicz-dublin-south-east-inner-city&edit-text=
