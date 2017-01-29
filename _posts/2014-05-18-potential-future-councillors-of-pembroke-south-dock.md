@@ -21,7 +21,6 @@ Here is a list of all the candidates running in the upcoming election, I took th
   * [Lorraine Clifford][9] (Fianna Fail)
   * [Gerry Ashe (Labour)][10]
   * [Linda O'Shea Farren][11] (Fine Gael)
-  * [Wayne Flanagan Tobin][12] (Independent)
   * [Mannix Flynn][13] (Independent)
   * [Chris Andrews][14] (Sinn Fein)
   * [Frank Kennedy][15] (Fianna Fail)
@@ -278,34 +277,6 @@ She seems like she has a huge amount of extremely relevant experience, where I t
   * [irishelectionliterature.wordpress.com/&#8230;linda-oshea-farren][65]
   * [linkedin.com/pub/linda-o-shea-farren/25/303/984][66]
 
-## <a name="Wayne"></a>Wayne Flanagan Tobin
-
-  * Website:
-  * Facebook: [facebook.com/&#8230;Vote-Wayne-Flanagan-Tobin&#8230;][67]
-  * Twitter: @[flanagantobin][68]
-  * Email: <tobinwr@tcd.ie>
-
-#### Background
-
-Wayne Flanagan Tobin is a 27 year old Special Needs assistant who works in a local school in the Ballsbridge area. He is a graduate of Trinity College Dublin and has previously worked as a youth worker with Catholic Youth Care.
-
-#### Thing he says that might influence your vote
-
-  * He believes young people should be consulted more about policies that will affect them
-  * He would want to use the position of councillor as a platform to lobby on the issue of youth mental health
-  * He has signed a pledge that he will not claim expenses if he is elected in the local elections in May
-  * He campaigned successfully in the past to have a Suicide Prevention officer appointed for the Wicklow area
-
-#### My opinion
-
-He is extremely inexperienced which puts me off completely. He lacks a lot of polish when it comes to the radio interviews, he doesn't have any concrete promises.
-
-#### Sources for my information
-
-  * [spunout.ie/action/article/local-candidate-profile-wayne-flanagan-tobin][69]
-  * [mixcloud.com/wayneflanagantobin/][70]
-  * [independent.ie/regionals/braypeople/lifestyle/suicide-prevention-officer-appointed-27625884.html][71]
-
 ## <a name="Mannix"></a>Mannix Flynn
 
   * Website: [mannixflynn.com][72]
@@ -540,7 +511,6 @@ I like that his election literature contains solid promises, I particularly like
  [9]: /potential-future-councillors-of-pembroke-south-dock#Lorraine
  [10]: /potential-future-councillors-of-pembroke-south-dock#Gerry
  [11]: /potential-future-councillors-of-pembroke-south-dock#Linda
- [12]: /potential-future-councillors-of-pembroke-south-dock#Wayne
  [13]: /potential-future-councillors-of-pembroke-south-dock#Mannix
  [14]: /potential-future-councillors-of-pembroke-south-dock#Chris
  [15]: /potential-future-councillors-of-pembroke-south-dock#Frank
@@ -595,11 +565,6 @@ I like that his election literature contains solid promises, I particularly like
  [64]: https://www.youtube.com/watch?v=psHGkPEJb9U
  [65]: http://irishelectionliterature.wordpress.com/2014/01/24/leaflet-from-linda-oshea-farren-fine-gael-pembroke-south-dock-2014-local-elections/
  [66]: https://www.linkedin.com/pub/linda-o-shea-farren/25/303/984
- [67]: https://www.facebook.com/pages/Vote-Wayne-Flanagan-Tobin/656599954375715?fref=ts
- [68]: https://twitter.com/flanagantobin
- [69]: http://spunout.ie/action/article/local-candidate-profile-wayne-flanagan-tobin
- [70]: http://www.mixcloud.com/wayneflanagantobin/
- [71]: http://www.independent.ie/regionals/braypeople/lifestyle/suicide-prevention-officer-appointed-27625884.html
  [72]: http://mannixflynn.com/
  [73]: https://www.facebook.com/mannix.flynn
  [74]: https://twitter.com/mannixflynn
